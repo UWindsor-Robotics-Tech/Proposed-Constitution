@@ -2,7 +2,7 @@
 
 ## §1 Executive Positions
 
-1. The University of Windsor Video Game Design Club (hereinafter "VGDC") shall have 3 executive positions, respectively named President, Vice President, and Treasurer.
+1. The University of Windsor Robotics and Tech Club (hereinafter "UWin Robotics") shall have 3 executive positions, respectively named President, Vice President, and Treasurer.
 
 2. These positions shall be elected in according to the procedures set forth below and by the board consistent with the below. 
 
@@ -10,7 +10,7 @@
 
 ### §1.1 Correspondance with the UWSA
 
-1. The positions designated as President, Vice President, and Treasurer in the VGDC shall be those positions as reported by the club to the University of Windsor Student Association (Hereinafter "UWSA"), and shall be the signing authorities of the club as reported to the UWSA.
+1. The positions designated as President, Vice President, and Treasurer in the UWin Robotics shall be those positions as reported by the club to the University of Windsor Student Association (Hereinafter "UWSA"), and shall be the signing authorities of the club as reported to the UWSA.
 
 2. The point of contact for the club with the UWSA shall be the President, or Vice President while the position of President may be vacant. 
 
@@ -18,30 +18,30 @@
 
 4. Notwithstanding (3), this document may impose limitations on the exercise of authorities granted to the Signing Authorities as described below. No person who is an executive of the club shall exercise any such authority so limited if the requirements of the limitation are not met.
 
-5. Notwithstanding (3), no person who does not hold position as an Executive of the VGDC shall exercise any authority so granted by the UWSA to the Signing Authorities of any Student Group with respect to the VGDC, without consent of the Board.
+5. Notwithstanding (3), no person who does not hold position as an Executive of the UWin Robotics shall exercise any authority so granted by the UWSA to the Signing Authorities of any Student Group with respect to the UWin Robotics, without consent of the Board.
 
 ## §2 President
 
-1. The President of the VGDC (hereinafter "President") shall be position elected every 1 year by the membership of the VGDC by ballot returned not later than the 5th of April in that year, but may be sooner as the Board may demand when the position may be vacant. 
+1. The President of the UWin Robotics (hereinafter "President") shall be position elected every 1 year by the membership of the UWin Robotics by ballot returned not later than the 5th of April in that year, but may be sooner as the Board may demand when the position may be vacant. 
 2. The procedures for the election of the position of President are detailed below.
 3. The President shall have the following duties and authorities, and shall take due care in the exercise thereof:
-    - To be the Head of the VGDC,
+    - To be the Head of the UWin Robotics,
     - To Preside over the Board and all meetings thereof,
     - To be the Chair of the Board,
     - To convene meetings of the Board, subject to the requirements set by this Constitution and by the Board,
     - To set the time, place, and manner for meetings of the Board and to provide mechanisms for determining such,
-    - To admit General Members into and dismiss General Members from the VGDC and to set reasonable, non-discriminatory, requirements for membership,
+    - To admit General Members into and dismiss General Members from the UWin Robotics and to set reasonable, non-discriminatory, requirements for membership,
     - To order the removal of any Board Member other than an executive position, in accordance with the policy set forth below, and
     - To instruct the Vice President to assume, on a temporary basis, any or all of the authorities herein and to voluntarily vacate the position to the Vice President
 4. Whenever the Position of Vice President or Treasurer may be vacant, the President may appoint, on a temporary basis, a replacement for that position, or may instruct the board to issue ballots for the positions which shall be returned 48 hours from the date of issue.
-5. The President shall be responsible for any and all interactions with the UWSA, and shall be responsible for ensuring that the VGDC meets the requirements for a Student Group with the UWSA and remains such.
-6. The Board may by regulation set the order of succession for the position of President of the VGDC if both that position and the position of Vice President are vacant.
+5. The President shall be responsible for any and all interactions with the UWSA, and shall be responsible for ensuring that the UWin Robotics meets the requirements for a Student Group with the UWSA and remains such.
+6. The Board may by regulation set the order of succession for the position of President of the UWin Robotics if both that position and the position of Vice President are vacant.
     - Until such time as such a regulation shall be made, the succession order for the Position of President shall be: Vice President, Treasurer, Head of Operations, Head of Community, Head of Events, Head of Development.
     - Where the vacancy for President is the result of a tie on the joint ballot for President and Vice President, no person shall become President under this clause until the Board has succesfully resolved the tie
 
 ## §3 Vice President
 
-1. The Vice President of the VGDC (hereinafter "Vice President") shall be a position elected every 1 year by the membership of the VGDC by ballot returned not later than the 5th of April in that year, but may be sooner as the Board may demand when the position may be vacant. 
+1. The Vice President of the UWin Robotics (hereinafter "Vice President") shall be a position elected every 1 year by the membership of the UWin Robotics by ballot returned not later than the 5th of April in that year, but may be sooner as the Board may demand when the position may be vacant. 
 2. The procedures for the election of the position of Vice President are detailed below.
 3. The Vice President shall act in the position of President with all authorities and duties therein prescribed when directed to do so and whenever the position may be vacant. 
 4. The Vice President shall be responsible for any and all interactions with other Student Groups at the University of Windsor.
@@ -60,16 +60,16 @@
 ## §5 Treasurer
 
 
-1. The Treasurer of the VGDC (hereinafter "Treasurer") shall be a position elected every 1 year by the members of the VGDC, by ballot returned on the 5th of April of that year or earlier as the Board may demand. 
+1. The Treasurer of the UWin Robotics (hereinafter "Treasurer") shall be a position elected every 1 year by the members of the UWin Robotics, by ballot returned on the 5th of April of that year or earlier as the Board may demand. 
 2. The Treasurer shall have the following duties and authorities:
-    - To keep and maintain the financial records of the VGDC,
+    - To keep and maintain the financial records of the UWin Robotics,
     - To present the financial records upon request to the President, the Board, or any other body authorized by the Board or the Governing Rules to do so,
-    - By and with the consent of the Board, and any additional authority required by the Governing Rules, to appropriate or requestion funds, and to spend them for the use of the VGDC, and to authorize such,
-    - To hold any and all bank cards and credit cards issued by the UWSA to the VGDC and to maintain records of use thereof,
+    - By and with the consent of the Board, and any additional authority required by the Governing Rules, to appropriate or requestion funds, and to spend them for the use of the UWin Robotics, and to authorize such,
+    - To hold any and all bank cards and credit cards issued by the UWSA to the UWin Robotics and to maintain records of use thereof,
     - To preside over the Board while it decides ties on the Joint Ballot for President and Vice President,
 3. Not later than the 31st of March, or as the Board may otherwise demand, the Board shall issue ballots for the position of Treasurer, in which persons who voluntarily nominate themselves for the position and meet the requirements of the position as set by this constitution and by any reasonable, non-discriminatory, restrictions adopted by the Board, shall be candidates for the position presented on the ballot.
 4. On return of the ballot, the person who has the most number of votes for the position shall be elected Treasurer. If two or more persons may be tied for the most number of votes, then the Board, absent the treasurer, shall choose, from among those tied, the person who shall be hold the position of Treasurer. 
-5. The Board may by regulation set the order of succession for the position of Treasurer of the VGDC if that position may be vacant.
+5. The Board may by regulation set the order of succession for the position of Treasurer of the UWin Robotics if that position may be vacant.
     - Until such time as such a regulation shall be made, the succession order for the Position of Treasurer shall be: Head of Events, Head of Development, Head of Operations, Head of Community.
     - Where the vacancy for Tresurer is the result of a tie on a ballot for the position of Treasurer, no person shall become Treasurer under this clause until the Board has succesfully resolved the tie.
     - No person shall become Treasuer until with respect to the president's authority to appoint a Treasurer, one of the following has occured:

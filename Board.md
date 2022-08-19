@@ -1,8 +1,8 @@
 # Article III - Board
 
-## §1 The Board of The Video Game Design Club
+## §1 The Board of The Robotics And Tech Club
 
-1. The University of Windsor Video Game Design Club (hereinafter "VGDC") shall have a Board (hereinafter "the Board"), which shall consist of the 3 Executive Positions of the VGDC, and 4 Board Heads, totaling 7 members.
+1. The University of Windsor Robotics And Tech Club (hereinafter "UWin Robotics") shall have a Board (hereinafter "the Board"), which shall consist of the 3 Executive Positions of the UWin Robotics, and 4 Board Heads, totaling 7 members.
 2. The Positions of Board Heads are as follows:
     - Head of Events,
     - Head of Community,
@@ -22,7 +22,7 @@
 ## §3 Head of Events.
 1. One member of the Board shall be Head of Events. 
 2. The Head of Events shall have the following duties and authorities:
-    - To propose for ratification by the Board, events which the VGDC will conduct throughout the Fall and Winter Terms (hereinafter "Primary Term") as well as during the Summer and/or Intersession terms,
+    - To propose for ratification by the Board, events which the UWin Robotics will conduct throughout the Fall and Winter Terms (hereinafter "Primary Term") as well as during the Summer and/or Intersession terms,
     - To keep records of all events and the attendance thereof, 
     - To present such records upon request to the Board and to the Vice President, and
     - Present requests for funds necessary for operating events to the Treasurer and the Board.
@@ -31,18 +31,18 @@
 ## §4 Head of Community
 1. One member of the Board shall be Head of Community
 2. The Head of Community shall have the following duties and authorities:
-    - To announce events, elections, and other important information regarding the VGDC to the General Members, 
-    - To moderate the Official Discord Server of the VGDC and other official forums for discussion, and to appoint other such moderators, 
+    - To announce events, elections, and other important information regarding the UWin Robotics to the General Members, 
+    - To moderate the Official Discord Server of the UWin Robotics and other official forums for discussion, and to appoint other such moderators, 
     - To report on the membership of the club to the President and the Board, and
-    - To receive concerns and complaints about the VGDC from the General Members and communicate those concerns and complaints to the President and Board.
+    - To receive concerns and complaints about the UWin Robotics from the General Members and communicate those concerns and complaints to the President and Board.
 3. If the position of Head of Community may be Vacant, then the President may exercise the above duties and authorities.
 
 ## §5 Head of Development
 1. One member of the Board shall be Head of Development.
 2. The Head of Development shall have the following duties and authorities:
-    - To maintain any official projects of the VGDC, on the official Github Organization of the VGDC and in other official locations,
+    - To maintain any official projects of the UWin Robotics, on the official Github Organization of the UWin Robotics and in other official locations,
     - To assign additional maintainers to official projects,
-    - To authorize official projects conducted by the General Membership (hereinafter "Member Projects") under the VGDC,
+    - To authorize official projects conducted by the General Membership (hereinafter "Member Projects") under the UWin Robotics,
     - To appoint General Members to the position of "Project Leads" with respect to Member Projects,
     - To receive reports and concerns from Project Leads regarding Member Projects and to report such to the President, and
     - To submit to the Treasurer, requests for funds related to Member Projects and official projects.
@@ -59,8 +59,8 @@
     - To make records maintained above available to the Board and to any member of the Board upon request,
     - To publish approved minutes from meetings in a location accessible to the General Members, unless the President or one half of the attendance of the meeting may request the minutes be held privately,
     - To set and implement policies regarding the publication of minutes, but the Board may also make such regulations which shal supersede those in conflict made by the Head of Operations,
-    - To report to the Vice President and the Board, any issues in the operation of the VGDC, and
-    - To maintain any additional records necessary for the operation of the VGDC.
+    - To report to the Vice President and the Board, any issues in the operation of the UWin Robotics, and
+    - To maintain any additional records necessary for the operation of the UWin Robotics.
 3. If the position of Head of Operations may be Vacant, then the Vice President may exercise the above duties and authorities.
 
 
@@ -78,8 +78,8 @@
 
 ## §8 Rules of Order, Authority, and Amendment
 1. The Board shall be governed by the [Robert's Rules of Order (Newly Revised)](http://rulesonline.com/) and/or any other rules that the Board may adopt by regulation (collectively "Rules of Order").
-2. This Constitution shall supersede the Rules of Order and procedure where they may inconsistent, but nothing in this constitution shall preclude the Board from restraining any authority granted by it to the Board.
+2. This Constitution shall supersede the Rules of Order and procedure where they may inconsistent, but nothing in this constitution shall preclude the Board from restraining any authority granted by it to the Board, except that the Board shall always have the authority to override or act notwithstanding its own rules or restraints
 3. The Board may not delegate any authority granted to it to any other person or body.
 4. The Board may amend this constitution by *two-thirds majority*.
-5. The Board shall have the authority to make regulations concerning anything which it is authorized to do, and with respect to the exercise of the authorities of the VGDC in manners which are not forbidden to it or granted exclusively elsewhere by this Constitution.
+5. The Board shall have the authority to make regulations concerning anything which it is authorized to do, and with respect to the exercise of the authorities of the UWin Robotics in manners which are not forbidden to it or granted exclusively elsewhere by this Constitution.
 6. Regulations made by the board shall be published in an area accessible to any General Member or to the UWSA, on request made to the President or Head of Operations.

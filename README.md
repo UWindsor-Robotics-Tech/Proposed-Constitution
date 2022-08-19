@@ -1,4 +1,4 @@
-# VGDC Constitution
+# UWin Robotics Constitution
 
 
 ## Articles
