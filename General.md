@@ -31,5 +31,5 @@
 
 ## §5 Interpretation
 
-15. The this document shall be interpreted as directed by the Board, and the Board shall publish any interpretations made in the case of any inconsistencies.
+15. This document shall be interpreted as directed by the Board, and the Board shall publish any interpretations made in the case of any inconsistencies.
 16. If this document is held to be inconsistent with the Governing Rules, the Board shall interpret to the maximum extent possible that is consistent with the Governing Rules.
